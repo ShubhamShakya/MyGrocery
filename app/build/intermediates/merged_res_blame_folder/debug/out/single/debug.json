@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_button.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable\\add_button.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_main_icon.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\main_icon.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_delete.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable\\ic_action_delete.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_add_button1.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\add_button1.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_adapter1.jpg.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\adapter1.jpg"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_title.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\title.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\font_risque.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\font\\risque.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_add_button2.jpg.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\add_button2.jpg"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\font_rokkitt.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\font\\rokkitt.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\layout_grocerydialog.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\layout\\grocerydialog.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\layout_groceryadapter.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\layout\\groceryadapter.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\newDownload\\MyGroceryList\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\newDownload\\MyGroceryList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

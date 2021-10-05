@@ -1,0 +1,12 @@
+com/example/mygrocerylist/GroceryDatabase_Impl.java
+ com.example.mygrocerylist.GroceryDatabase_Impl
+ com.example.mygrocerylist.GroceryDatabase_Impl$1
+com/example/mygrocerylist/GroceryDao_Impl.java
+ com.example.mygrocerylist.GroceryDao_Impl
+ com.example.mygrocerylist.GroceryDao_Impl$1
+ com.example.mygrocerylist.GroceryDao_Impl$2
+ com.example.mygrocerylist.GroceryDao_Impl$3
+ com.example.mygrocerylist.GroceryDao_Impl$4
+ com.example.mygrocerylist.GroceryDao_Impl$5
+com/example/mygrocerylist/BuildConfig.java
+ com.example.mygrocerylist.BuildConfig
